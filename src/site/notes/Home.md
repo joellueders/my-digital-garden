@@ -3,3 +3,7 @@
 ---
 
 [[Concepts/Echo Chamber Attack\|Echo Chamber Attack]]
+
+flowchart TD
+Start --> Stop
+
