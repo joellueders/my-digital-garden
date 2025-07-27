@@ -3,4 +3,3 @@
 ---
 
 [[Concepts/Echo Chamber Attack\|Echo Chamber Attack]]
-
